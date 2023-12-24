@@ -1,0 +1,14 @@
+﻿  Managment.cpp
+F:\c(273,12): warning C4150: удаление указателя на неполный тип "GamerBot"; деструктор не вызван
+  F:\c(11,7):
+   см. объявление "GamerBot"
+  
+F:\c(332,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\c(861,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\c(863,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\c(873,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\c(875,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\c(1367,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\c(1452,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\c#\My projects\С++\Managment\Managment\Managment.cpp(133): warning C4715: endGame: значение возвращается не при всех путях выполнения
+  Managment.vcxproj -> F:\c#\My projects\С++\Managment\x64\Debug\Managment.exe
